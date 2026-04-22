@@ -14,5 +14,4 @@ Aplicação em Python com interface gráfica usando CustomTkinter.
 - customtkinter
 - ffmpeg
 
-## Autor
-Guilherme Januzzi
+
